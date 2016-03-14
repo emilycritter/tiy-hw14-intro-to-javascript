@@ -22,6 +22,9 @@ Want more javascript?
 
 * [Eloquent Javascript - Free online](http://eloquentjavascript.net/)
 
+## Submittal
+[JS Bin](https://jsbin.com/menegi/edit)
+
 
 # Intro to JavaScript: Array Play with JavaScript
 ###### Due Tuesday, March 15, 2016

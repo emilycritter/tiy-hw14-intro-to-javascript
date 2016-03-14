@@ -83,3 +83,5 @@ movies.push({
   stars: ["Leonardo DiCaprio", "JGL"]
 });
 ```
+## Submittal
+[Code Pen - Sentence to Array](http://codepen.io/emilycritter/pen/vGyYwx?editors=1111)

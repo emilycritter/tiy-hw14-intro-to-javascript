@@ -84,4 +84,5 @@ movies.push({
 });
 ```
 ## Submittal
-[Code Pen - Sentence to Array](http://codepen.io/emilycritter/pen/vGyYwx?editors=1111)
+* [Code Pen - Sentence to Array](http://codepen.io/emilycritter/pen/vGyYwx?editors=1111)
+* [Code Pen - Data Selects](http://codepen.io/emilycritter/pen/mPOyzj?editors=1012)
